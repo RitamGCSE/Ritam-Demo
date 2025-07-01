@@ -1,4 +1,4 @@
 # Ritam-Demo
 For rtCamp Task.
 <br>
-Author- Ritam Ghosh.
+Author- Ritam Ghosh(IMA).
